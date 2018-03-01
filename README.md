@@ -62,6 +62,8 @@
 | Microsoft [🔊](http://dict.youdao.com/dictvoice?audio=Microsoft&type=1) | ✅ /'maikrəusɔft/ | ❌ /'mikrəusɔft/ |
 | mobile [🔊](http://dict.youdao.com/dictvoice?audio=mobile&type=1) | ✅ /ˈməʊbail/ | ❌ /məʊ'bail/ |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1) | ✅ /'mɒdjuːl/ | ❌ /'məʊdl/ |
+| modal [🔊](http://dict.youdao.com/dictvoice?audio=modal&type=1) | ✅ /'məʊd(ə)l/ | ❌ /'mɒdl/ |
+| model [🔊](http://dict.youdao.com/dictvoice?audio=model&type=1) | ✅ /'mɒdl/ | ❌ /'məʊdl/ |
 | nginx [🔊](https://translate.google.cn/translate_tts?ie=UTF-8&q=nginx&tl=en&total=1&idx=0&textlen=5&tk=526031.947828&client=t&prev=input) | ✅ Engine X /'endʒɪneks/ | ❌ /'endʒɪnks/ |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ /nʌl/ | ❌ /naʊ/ |
 | OS X | ✅ OS ten | |

@@ -67,8 +67,9 @@
 | nginx [🔊](https://translate.google.cn/translate_tts?ie=UTF-8&q=nginx&tl=en&total=1&idx=0&textlen=5&tk=526031.947828&client=t&prev=input) | ✅ Engine X /'endʒɪneks/ | ❌ /'endʒɪnks/ |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ /nʌl/ | ❌ /naʊ/ |
 | OS X | ✅ OS ten | |
-| phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ /'fæntəm/ | ❌ /'pæntəm/ |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ /pə'ræmɪtə/ | ❌ /'pærəmɪtə/ |
+| pseudo [🔊](http://dict.youdao.com/dictvoice?audio=pseudo&type=1) | ✅ /'sju:dəʊ/ | ❌ /'psju:dəʊ/ |
+| phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ /'fæntəm/ | ❌ /'pæntəm/ |
 | PostgreSQL [🔊](http://www.postgresql.org/files/postgresql.mp3) | ✅ /pəʊst 'ɡres kjuː el/ | |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ /ˈpʌti/ | ❌ /ˈpuːti/ |
 | Python [🔊](http://dict.youdao.com/dictvoice?audio=python&type=2) | ✅ /ˈpaɪθən/ | |

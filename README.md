@@ -6,6 +6,7 @@
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ /'ækses/ | ❌ /ək'ses/ |
 | agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ /'ædʒaɪl/ | ❌ /ə'dʒaɪl/ |
+| alter [🔊](http://dict.youdao.com/dictvoice?audio=alter&type=1) | ✅ /'ɔːltə(r)/ | ❌ /ə'lɜːt/ |
 | amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ /'æməzən/ | ❌ /'əmeizən; ə'meizən/ |
 | analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ /əˈnælədʒi/ | ❌ /ænə'lɒdʒi/ |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ /'æŋgjʊlə/ | ❌ /'æŋɡələ; 'æŋdʒʌlə/ |
@@ -33,10 +34,10 @@
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ /'dek/ | ❌ /di'kju/ |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ n. /'dɑɪdʒɛst/ v. /dɑɪ'dʒɛst/ | ❌ /'dɪgɛst/ |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ /ˈdʒæŋɡoʊ/ | ❌ /diˈdʒæŋɡoʊ/ |
-| doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ /dɒk/| ❌ /daʊk/ |
+| doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ /dɒk/ | ❌ /daʊk/ |
 | etc [🔊](http://dict.youdao.com/dictvoice?audio=etc&type=1) | ✅ /ɪt'setərə, et-/ | ❌ E-T-C |
-| facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1) | ✅ /fə'sɑːd/| ❌ /'feikeid/ |
-| Fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ /fɪ'dɔːrə/| ❌ /'fedərə/ |
+| facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1) | ✅ /fə'sɑːd/ | ❌ /'feikeid/ |
+| Fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ /fɪ'dɔːrə/ | ❌ /'fedərə/ |
 | gif [🔊](upload.wikimedia.org/wikipedia/commons/2/2b/En-us-gif-1.ogg) | ✅ /ɡɪf/ | ❌ /dʒɪf/ |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1) | ✅ /ɡɪt/ | ❌ /dʒɪt/ |
 | Gnome [🔊](http://dict.youdao.com/dictvoice?audio=gnome&type=1) | ✅ /ɡˈnoʊm; ˈnoʊm/ | ❌ /ɡˈnɔːm/ |
@@ -55,6 +56,7 @@
 | lambda [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1) | ✅ /ˈlæmdə/ | ❌ /ˈlɒŋmdɑ/ |
 | linear [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1) | ✅ /'lɪnɪə/ | ❌ /'laɪə/ |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ /'lɪnəks/ | ❌ /ˈlɪnʌks; ˈlɪnjuːks/ |
+| locale [🔊](http://dict.youdao.com/dictvoice?audio=locale&type=2) | ✅ /ləʊ'kɑːl/ | ❌ /ˈloʊk(ə)l/ |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1) | ✅ /meɪn/ | ❌ /mɪn/ |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ /'mɑːdʒɪn/ | ❌ /'mʌgɪn/ |
 | matrix [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1) | ✅ /ˈmeɪtrɪks/ | ❌ /ˈmɑːtrɪks/ |
@@ -77,6 +79,7 @@
 | queue [🔊](http://dict.youdao.com/dictvoice?audio=queue&type=1) | ✅ /kjuː/ | |
 | Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ /kjuːt/ | ❌ Q-T |
 | Realm [🔊](http://dict.youdao.com/dictvoice?audio=realm&type=1) | ✅ /relm/ | ❌ /riəlm/ |
+| resume [🔊](http://dict.youdao.com/dictvoice?audio=resume&type=1) | ✅  /rɪ'zju:m/ | ❌  /rɪ'sju:m/ |
 | resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=1) | ✅ /rɪ'zɒlvd/ | ❌ /rɪ'səʊvd/ |
 | resort [🔊](http://dict.youdao.com/dictvoice?audio=resort&type=1) | ✅ /rɪˈzɔːt/ | ❌ /rɪˈsɔːt/ |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=1) | ✅ /'retɪnə/ | ❌ /ri'tina/ |
@@ -84,6 +87,7 @@
 | san jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=1) | ✅ /sænhəu'zei/ | ❌ /sæn'juːs/ |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=1) | ✅ /sə'fɑːrɪ/ | ❌ /sæfərɪ/ |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=1) | ✅ /skiːm/ | ❌ /s'kiːmə; s'kæmə/ |
+| segue [🔊](http://dict.youdao.com/dictvoice?audio=segue&type=1) | ✅ /'sɛɡwe/ | ❌ /se'dʒ/ |
 | SQL [🔊](http://dict.youdao.com/dictvoice?audio=SQL&type=1) | ✅ /ˌɛs.kjuːˈɛl; ˈsiːkwəl/ | ❌ /ˈsəkwəl/ |
 | sudo | ✅ /'suːduː/ | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=1) | ✅ /swiːt/ | ❌ /sjuːt/ |
